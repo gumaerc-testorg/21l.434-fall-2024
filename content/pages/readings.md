@@ -22,7 +22,7 @@ No assigned readings.
 
 Niccol, Andrew, director. *Gattaca*. Columbia Pictures, 1997. 
 
-*Optional:* Mele, Alfred R. "[My Compatibilist Proposal](https://doi.org/10.1093/0195305043.003.0007)." (2006). 
+*Optional:* Mele, Alfred R. "{{% resource_link "fe75089d-be84-4dc4-9323-0927b3cd6835" "My Compatibilist Proposal" %}}." (2006). 
 
 - There will be an in-class discussion of Alfred Mele’s zygote argument.
 
